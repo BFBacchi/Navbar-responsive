@@ -12,8 +12,8 @@ Este proyecto proporciona un ejemplo de un navbar responsivo con un menú desple
 
 ## Capturas de Pantalla
 
-![Navbar Desktop](path_to_desktop_screenshot.png)
-![Navbar Mobile](path_to_mobile_screenshot.png)
+![Navbar Desktop](/assets/responsive_navbar_desktop.png)
+![Navbar Mobile](/assets/responsive_navbar_mobile.png)
 
 ## Instalación
 
